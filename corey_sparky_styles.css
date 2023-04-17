@@ -9,7 +9,7 @@ body {
    margin: 0px;
    padding: 0px;
    background-color: #ccc;
-   color: #222 
+   color: #222; 
 }
 
 header, footer, div {
@@ -121,7 +121,7 @@ footer a {
 }
 
 footer a:hover {
-    color: #ffc627
+    color: #ffc627;
 }
 
 
