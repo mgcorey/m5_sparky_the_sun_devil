@@ -67,7 +67,7 @@ nav a {
     margin-bottom: 24px;
     margin-left: 16px;
     margin-right: 16px;
-    text-decoration: none ;
+    text-decoration: none;
     font-weight: bold;
     font-size: 20px;
 }
@@ -80,6 +80,7 @@ nav a:hover {
 main {
     background-color: #fff;
     padding: 24px;
+    text-align: left;
 }
 
 main a {
@@ -97,7 +98,7 @@ p, q {
 }
 
 q {
-    font: italic;
+    font-style: italic;
 }
 
 .year {
