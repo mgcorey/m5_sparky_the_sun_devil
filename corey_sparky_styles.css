@@ -63,9 +63,41 @@ nav a {
     font-size: 20px;
 }
 
+nav a:hover {
+    background-color: #fff;
+    color: #8c1d40;
+}
 
+main {
+    background-color: #fff;
+    padding: 24px;
+}
 
+main a {
+    color: #8c1d40;
+    font-weight: bold;
+}
 
+main a:hover {
+    background-color: #8c1d40;
+    color: #fff;
+}
+
+p, q {
+    color: #444;
+}
+
+q {
+    font: italic;
+}
+
+.year {
+    background-color: #ffc627;
+    color: #555;
+    padding: 4px;
+    font-size: 20px;
+    font-weight: bold;
+}
 
 
 
