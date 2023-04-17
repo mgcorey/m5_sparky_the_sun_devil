@@ -13,10 +13,19 @@ body {
 }
 
 header, footer, div {
-background-color: #8c1d40;
-color: #fff;
-padding: 20px;
-text-align: center;
+    width: 1000px;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header, footer {
+    background-color: #8c1d40;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
 }
 
 h1 {
